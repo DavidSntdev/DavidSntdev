@@ -8,10 +8,10 @@
     <img height="160em" src="https://github-readme-stats-q1oxknttp-focamacho.vercel.app/api?username=DavidSntdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://streak-stats.demolab.com/?user=DavidSntdev&theme=dark"/>
   </a>
+  <div>
+    <a href = "mailto:contatodavidsantos.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/david-santos-317572286" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
 </div>   
-<div align="center">
-  <a href = "mailto:contatodavidsantos.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/david-santos-317572286" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 
