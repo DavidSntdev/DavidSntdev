@@ -6,7 +6,7 @@
   </h1>
   <a href="#">
     <img height="160em" src="https://streak-stats.demolab.com/?user=DavidSntdev&theme=dark"/>
-    <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babiel09&layout=compact&langs_count=7&theme=dark"/>
+    <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSntDev&layout=compact&langs_count=7&theme=dark"/>
   </a>
   <div>
     <a href = "mailto:contatodavidsantos.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
